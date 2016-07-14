@@ -6,7 +6,7 @@
 
 ## Enviroment
 
-- Level exits require 200 gems to exit
+- Levels require at least 200 gems to open the exit
 
 ## Weapons
 
