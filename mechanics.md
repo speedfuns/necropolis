@@ -36,3 +36,4 @@ Noted during [LobosJR's stream](https://www.twitch.tv/lobosjr/v/77839342)
 - Save and quit while opening a door will mark the door as open when you reload
 - Save and quitting right before being teleported back to safe ground during a fall will put you above safe ground if located below
 - Save and quitting during falls can potentially create infinite falling. 
+- The game remains active during the red text at the start of loading and allows you to fall without it forcing a reset, as long as you're falling during the reload.
