@@ -8,6 +8,7 @@
 ## Enviroment
 
 - Levels require at least 200 gems to open the exit
+- Possible fall skip prevention above Level 9
 
 ## Weapons
 
