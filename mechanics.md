@@ -2,7 +2,15 @@
 
 ## Movement
 
-- Research needed
+- Dodging seems to be faster (research needed)
+
+## Enviroment
+
+- Level exits require 200 gems to exit
+
+## Weapons
+
+- Screamer seems to have high DPS (research needed)
 
 ## Glitches
 
