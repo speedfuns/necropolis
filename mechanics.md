@@ -20,7 +20,7 @@
 - DPS
   - Berzerking: Get That Party Started (Lowers HP, increased damage, more aggro)
 - Stamina
-  - Combat Got You Down? Regenercise. (Regen)
+  - Combat Got You Down? Regenercise. (Regen twice as fast)
   - You Can't Hit What Isn't There (Halved for sprinting/dodging)
 - Movement
   - That's Not so Far (Huge jump)
