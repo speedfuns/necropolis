@@ -15,7 +15,7 @@
 
 ## Codices
 
-- [Reddit post](https://www.reddit.com/r/necropolis/comments/4sqknt/maybe_we_can_figure_out_what_each_codex_does/)
+[Reddit post](https://www.reddit.com/r/necropolis/comments/4sqknt/maybe_we_can_figure_out_what_each_codex_does/)
 
 - DPS
   - Berzerking: Get That Party Started (Lowers HP, increased damage, more aggro)
