@@ -1,7 +1,7 @@
 # Route Propositions
 All runs are based on in-game time on the final screen.
 
-# Main Routes
+## Main Routes
 
 **Any%**
 - Beat the game as fast as possible using any glitches or exploits
