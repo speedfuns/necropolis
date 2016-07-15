@@ -14,6 +14,12 @@
 
 - Screamer seems to have high DPS for early levels (research needed)
 
+## Potions
+
+- Moten's Fleet Foot: increases movement speed
+- Moten's Spring Heel Elixir: increases jump height
+- Pass Unseen Elixir: pass enemies unnoticed
+
 ## Codices
 
 [Reddit post](https://www.reddit.com/r/necropolis/comments/4sqknt/maybe_we_can_figure_out_what_each_codex_does/)
