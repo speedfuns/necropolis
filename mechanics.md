@@ -43,4 +43,5 @@ Noted during [LobosJR's stream](https://www.twitch.tv/lobosjr/v/77839342)
 - Save and quitting right before being teleported back to safe ground during a fall will put you above safe ground if located below
 - Save and quitting during falls can potentially create infinite falling. 
 - The game remains active during the red text at the start of loading and allows you to fall without it forcing a reset, as long as you're falling during the reload.
+- The above also includes storing actions such as rolling and walking, so you can get something in before the fall initiates.
 - I somehow managed to glitch through to the credits area. After skipping to Level 8 and then going into the final room, a door was there that took me to the end credits level, completely skipping Level 9 and the final boss.
