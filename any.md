@@ -10,6 +10,7 @@
 ## Level 2 - 7
 
 - Fall past them using the save and quit glitch
+- Land on Level 8
 
 ## Level 8
 
