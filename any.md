@@ -4,7 +4,7 @@
 
 - Activate **Carpe Per Diem** codex (double gems)
 - Gather 200 gems
-- Activate **That's Not so Far** codex (4x heigh jump)
+- Activate **That's Not so Far** codex (4x high jump)
 - Jump down past the first elevetor
 
 ## Level 2 - 7
