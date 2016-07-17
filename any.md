@@ -21,6 +21,4 @@
 
 ## Level 9
 
-- ???
 - Fight the boss and get the amulet to proceed to the game's end
-- Find a clip into Level 10
